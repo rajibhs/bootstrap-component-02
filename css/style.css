@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header,.accordion,.alert_wrap ,section{
+	padding: 0 0 100px;
+}
+.carousel-caption h1{
+	font-size: 55px !important;
+	text-transform: uppercase;
+}
+.btn_custom{
+	width: 250px !important;
+	height: 50px;
+	font-size: 20px;
+}
+
+.btn_custom2{
+	width: 150px !important;
+	height: 40px;
+	color: #fff;
+
+}
+.our_card1{
+
+}
